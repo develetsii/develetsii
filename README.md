@@ -28,24 +28,13 @@
 
 ---
 
-## 🧭 Cómo participar
-
-> **Placeholder:** Guía rápida para cualquier estudiante que quiera formar parte de DevelETSII. Explicará cómo unirse a la comunidad, encontrar proyectos, colaborar con otros miembros, proponer ideas y empezar a participar.
-
----
-
 ## ❤️ Por qué unirse
 
 > **Placeholder:** Principales razones para formar parte de DevelETSII. Destacará los beneficios de aprender fuera del aula, trabajar en proyectos reales, conocer otros estudiantes, desarrollar habilidades y conectar con el mundo profesional.
 
 ---
 
-## 📬 Contacto
-
-> **Placeholder:** Todos los canales oficiales de comunicación de DevelETSII, incluyendo Discord, GitHub, redes sociales, correo electrónico y cualquier otro medio oficial.
-
----
-
-## 🚀 Únete a DevelETSII
+## 🚀 Únete a DevelETSII + contacto
 
 > **Placeholder:** CTA final orientado a convertir visitantes en miembros de la comunidad. Incluirá un mensaje breve de cierre y enlaces directos para unirse, participar o empezar a colaborar.
+
