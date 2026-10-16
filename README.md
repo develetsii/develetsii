@@ -2,7 +2,7 @@
 
 Somos una asociación tecnológica y creativa de la **Escuela Técnica Superior de Ingeniería Informática de la Universidad de Sevilla**. Un espacio donde estudiantes pueden aprender, colaborar y convertir ideas en proyectos reales.
 
----
+</br>
 
 ## 🚀 Sobre DevelETSII
 
@@ -18,13 +18,14 @@ Fomentar una comunidad universitaria activa alrededor de la tecnología, la crea
 
 ### 🌐 Qué nos mueve
 
-* **Aprender haciendo** — Convertimos conocimientos en proyectos reales.
-* **Colaborar** — Trabajamos en equipos y compartimos lo que sabemos.
-* **Experimentar** — Damos espacio a ideas y tecnologías nuevas.
-* **Crear** — Transformamos ideas en productos, herramientas y experiencias.
-* **Conectar** — Acercamos estudiantes, profesionales y comunidad universitaria.
-* **Compartir** — Apostamos por el conocimiento abierto y el software libre.
+* **Aprender haciendo**: Convertimos conocimientos en proyectos reales.
+* **Colaborar**: Trabajamos en equipos y compartimos lo que sabemos.
+* **Experimentar**: Damos espacio a ideas y tecnologías nuevas.
+* **Crear**: Transformamos ideas en productos, herramientas y experiencias.
+* **Conectar**: Acercamos estudiantes, profesionales y comunidad universitaria.
+* **Compartir**: Apostamos por el conocimiento abierto y el software libre.
 
+</br>
 
 ## 🔥 Proyectos destacados
 
@@ -40,7 +41,7 @@ En DevelETSII trabajamos en proyectos donde ponemos en práctica nuestros conoci
 
 <!-- PROJECTS:END -->
 
----
+</br>
 
 ## 📊 Métricas
 
@@ -54,7 +55,7 @@ En DevelETSII trabajamos en proyectos donde ponemos en práctica nuestros conoci
   <img src="https://ghstats.dev/api/mini?username=develetsii&theme=midnight_sakura&metric=issues" alt="Issues" hspace="4" />
 </p>
 
----
+</br>
 
 ## ✨ Actividades
 
@@ -77,7 +78,7 @@ Espacios donde estudiantes pueden aprender de otros miembros, compartir experien
 #### 🌍 Eventos y competiciones
 Participación en congresos, ferias, competiciones y otras iniciativas fuera de la universidad.
 
----
+</br>
 
 ## ❤️ Por qué unirse
 
@@ -113,7 +114,7 @@ No necesitas esperar a que exista una asignatura para desarrollar una idea. Prop
 - **💼 Acércate al mundo profesional**
 Conoce profesionales, antiguos alumnos y empresas, y descubre nuevas oportunidades más allá de la universidad.
 
----
+</br>
 
 ## 🚀 Únete a DevelETSII + contacto
 
@@ -122,6 +123,8 @@ Conoce profesionales, antiguos alumnos y empresas, y descubre nuevas oportunidad
 ¿Quieres aprender, crear algo nuevo o simplemente conocer a gente con tus mismas inquietudes?
 
 **Únete a la comunidad, descubre nuestros proyectos y encuentra tu sitio en DevelETSII.**
+
+</br>
 
 ### 💬 Comunidad
 
